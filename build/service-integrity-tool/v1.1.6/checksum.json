@@ -1,0 +1,131 @@
+{
+  "verificationDocumentEnvelope": {
+    "verificationDocument": {
+      "softwareManifest": {
+        "globalChecksum": "f887e33cb9378bbb8590cd6f219b9954b83c2b01c859cb6389ab6e7fbeafcfa3",
+        "fileChecksums": [
+          {
+            "fileName": "migrations/sqls/20240318091952-init-down.sql",
+            "checksum": "967cbfcf342513ca4c028367dc4ed47a4cd3936ff97345d448df64e6be4b2ec8"
+          },
+          {
+            "fileName": "migrations/sqls/20240318091952-init-up.sql",
+            "checksum": "a7598ab6e49331ba914a9f97ab480a36f15dc12a0d1a98d980306512de1d9fc3"
+          },
+          {
+            "fileName": "migrations/20240318091952-init.js",
+            "checksum": "bb2ae5fdbbebae4a564330f91d39742f13db3f3fa112dbb5764efca98e767390"
+          },
+          {
+            "fileName": "src/controllers/application.ts",
+            "checksum": "33db580ffcf399b756f6a188d8add8f0c5b8314e863023ce9a3ea83212b72f47"
+          },
+          {
+            "fileName": "src/background.ts",
+            "checksum": "77ca5afd33832ffd605887aaab87087d0df2f36b1f6baba4c86be9c7e1d413bc"
+          },
+          {
+            "fileName": "src/bootstrap.ts",
+            "checksum": "8d87586b0f53ca15f6ec57c8f5ae0c4b7cc6043644b5a1e704d0e7d55e5612ba"
+          },
+          {
+            "fileName": "src/controllers/build.ts",
+            "checksum": "912d08a14db9a670ac201ed76376f47c7c383f6b74100943ce28fd8616c16e30"
+          },
+          {
+            "fileName": "src/config.ts",
+            "checksum": "a411076c96d563c1c6051d1134fbff572fd4ab4376a43403b1b706f7a9252b53"
+          },
+          {
+            "fileName": "src/database.ts",
+            "checksum": "7c4b1868d4b55504da914e2383a441e18bbc7cec0cdfdfa4e739ab00cf604d52"
+          },
+          {
+            "fileName": "src/controllers/deployment.ts",
+            "checksum": "623e74badb24cefb3e075f45ba14467deceaa33939b5f85e52df0b3b549c029e"
+          },
+          {
+            "fileName": "src/scripts/drop-database.ts",
+            "checksum": "f910a09c950eeffa4ba51a08986dc6bea3e99b2579e6bdb6951f0982f46aba07"
+          },
+          {
+            "fileName": "src/env.ts",
+            "checksum": "63a09939bf1d67de207f526be3e16dcf8566527f07ada85a279dc65a9b1a1a34"
+          },
+          {
+            "fileName": "src/log.ts",
+            "checksum": "61f1ea3b9cf4f0cdfd384582806fdf6b427475c2dd3c4aceffccbce8b15820c1"
+          },
+          {
+            "fileName": "src/scripts/migrate-down.ts",
+            "checksum": "282f64b33938b256b8c27c40dd9ef22aff4f060d8ac703a04510a3642f44a314"
+          },
+          {
+            "fileName": "src/scripts/migrate-up.ts",
+            "checksum": "c5efb60e82b1a96fb61d9e32f77de723a91607703932670c974ec2391e03179e"
+          },
+          {
+            "fileName": "src/scripts/migrate.ts",
+            "checksum": "d82095f2e344f458586f7f8bfa0b3d4772eb074fb5b90f8d488b37211098fb4f"
+          },
+          {
+            "fileName": "package-lock.json",
+            "checksum": "59688fd1877a0ebf4af1dfbc092d1d0b1234fb2f3a7388f11c0a03f3cbfd31fc"
+          },
+          {
+            "fileName": "package.json",
+            "checksum": "3be90026ea19f11cdf0d947b42aee5aa08cadcb043d426f22e7c29cc265b5bfc"
+          },
+          {
+            "fileName": "migrations/package.json",
+            "checksum": "73513439b93b2391b8a67720b5e0959f46afc909c1f0fc7dd73b79c5ae36bda7"
+          },
+          {
+            "fileName": "migrations/sqls/package.json",
+            "checksum": "73513439b93b2391b8a67720b5e0959f46afc909c1f0fc7dd73b79c5ae36bda7"
+          },
+          {
+            "fileName": "src/scripts/reset-db.ts",
+            "checksum": "d4411efc54ad8dcf26588b6cf4d9c4e63c2267b3fbd657444cdeda9facd6cca9"
+          },
+          {
+            "fileName": "src/routes.ts",
+            "checksum": "70aa34bd11d032f01dcfa72753598bc6d2d395c71e76005d427de5971b8e9e68"
+          },
+          {
+            "fileName": "src/server.ts",
+            "checksum": "531ea2e7d5e30216a54a174e7a760a74f0d8ab71b552e1e30955912f535aaee8"
+          },
+          {
+            "fileName": "/usr/bin/sha256sum",
+            "checksum": "c431355ac4882173a4c8f2c1e6efdaf1023d7fe5540d46f0d456089af21895a8"
+          },
+          {
+            "fileName": "src/start.ts",
+            "checksum": "e947d64ff1e09aea026673f7a8cf6591c8111689f08ac46f89064892c668e42c"
+          },
+          {
+            "fileName": "src/controllers/status.ts",
+            "checksum": "ad797c83abb175a2003fae082cb567a30bc67310f521f069ceef60d8e3a0a48e"
+          },
+          {
+            "fileName": "src/controllers/test.ts",
+            "checksum": "fe8b41a25baa5251c411614c798d94cd7f8d653b19f551b98efde011e0d0d7b3"
+          }
+        ]
+      },
+      "GenerationInstructions": {
+        "checksumToolVersion": "1.1.0",
+        "appBasePath": "/app",
+        "includedFiles": [
+          "/usr/bin/sha256sum",
+          "src",
+          "package.json",
+          "package-lock.json",
+          "migrations"
+        ],
+        "excludedFiles": []
+      }
+    }
+  }
+}
